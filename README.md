@@ -1,5 +1,5 @@
 # Quantum 2048 Quest Tiles - Q-Learning
-
+View the final deployed output : https://pavankalyannandamuri.github.io/2048-Webpage/
 ## Project Structure
 
 Here is an overview of the project structure:
